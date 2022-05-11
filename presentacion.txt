@@ -1,0 +1,12 @@
+God 
+
+I wan a try to introduce you What is Linux
+
+But, the real name is What is GNU/Linux?
+
+GNU/Linux is an operatin system.
+- You can dowload and install in all of your computers whithout any license.
+
+It is free software and open source
+- You can make a copy and distribute.
+- If you are a programer, you can change the code because you have the open source.
