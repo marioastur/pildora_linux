@@ -1,2 +1,2 @@
 # pildora_linux
-Presentación de la pildora informatica sobre Linux
+Presentación de la pildora informática sobre Linux
